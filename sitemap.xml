@@ -245,6 +245,11 @@
   </url>
   
   <url>
+    <loc>/works/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/_authors/</loc>
     <priority>0</priority>
   </url>
